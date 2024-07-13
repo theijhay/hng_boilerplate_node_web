@@ -26,7 +26,7 @@ This is a comprehensive boilerplate for building `Node.js` applications. It incl
 
 
 
-## API Documentation
+## API Specification Link 
 Detailed API documentation will be available [here.](https://github.com/kunmifab/hng-boilerplate-api-specification/blob/main/index.html)
 
 
